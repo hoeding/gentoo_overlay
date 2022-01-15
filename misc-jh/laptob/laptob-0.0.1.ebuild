@@ -6,6 +6,7 @@ HOMEPAGE="https://github.com/hoeding/laptob"
 inherit git-r3 cmake
 EGIT_REPO_URI="https://github.com/hoeding/laptob.git"
 LICENSE="GPL-2"
+SLOT="0"
 KEYWORDS="~x86"
 IUSE=""
 DEPEND=""
