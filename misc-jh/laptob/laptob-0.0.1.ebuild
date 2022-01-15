@@ -3,7 +3,7 @@
 EAPI=8
 DESCRIPTION="Quality of life utilities for Linux laptops"
 HOMEPAGE="https://github.com/hoeding/laptob"
-inherit git-r3 cmake-utils
+inherit git-r3 cmake
 EGIT_REPO_URI="https://github.com/hoeding/laptob.git"
 LICENSE="GPL-2"
 KEYWORDS="~x86"

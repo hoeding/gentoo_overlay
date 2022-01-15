@@ -3,7 +3,7 @@
 EAPI=8
 DESCRIPTION="Misc. C++20 Library"
 HOMEPAGE="https://github.com/hoeding/libjh"
-inherit git-r3 cmake-utils
+inherit git-r3 cmake
 EGIT_REPO_URI="https://github.com/hoeding/libjh.git"
 LICENSE="GPL-2"
 KEYWORDS="~x86"
