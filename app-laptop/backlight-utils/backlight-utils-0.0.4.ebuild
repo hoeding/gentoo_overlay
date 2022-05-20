@@ -12,6 +12,6 @@ IUSE=""
 DEPEND=""
 RDEPEND="${DEPEND}"
 BDEPEND=""
-src_install() {
+cmake_src_install() {
   dolib.so libbacklight.so libbacklight.so.0.0.4
 }
