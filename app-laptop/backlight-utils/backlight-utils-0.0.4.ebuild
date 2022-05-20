@@ -13,5 +13,5 @@ DEPEND=""
 RDEPEND="${DEPEND}"
 BDEPEND=""
 src_install() {
-  dolib.so libbacklight.so.1
+  dolib.so libbacklight.so libbacklight.so.0.0.4
 }
